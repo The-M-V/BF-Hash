@@ -2,7 +2,7 @@
 
 Herramienta para descifrar hashes por fuerza bruta
 
-[![Captura-de-pantalla-2022-01-29-190827.png](https://i.postimg.cc/LXxwb3bT/Captura-de-pantalla-2022-01-29-190827.png)](https://postimg.cc/34Dtym74)
+[![BF-Hash.png](https://i.postimg.cc/J4566qHB/BF-Hash.png)](https://postimg.cc/KR4D4tNZ)
 
 # Instalación
 
